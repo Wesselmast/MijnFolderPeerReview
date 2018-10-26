@@ -1,0 +1,18 @@
+﻿  Main.cpp
+c:\users\wessel\desktop\github school\kernmodule_v3\opengl\src\generation\chunkmesh.h(14): warning C4150: deletion of pointer to incomplete type 'VertexBufferLayout'; no destructor called
+  c:\users\wessel\desktop\github school\kernmodule_v3\opengl\src\rendering\vertexarray.h(4): note: see declaration of 'VertexBufferLayout'
+c:\users\wessel\desktop\github school\kernmodule_v3\opengl\src\main.cpp(64): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\wessel\desktop\github school\kernmodule_v3\opengl\src\main.cpp(181): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\wessel\desktop\github school\kernmodule_v3\opengl\src\main.cpp(154): warning C4101: 'mg': unreferenced local variable
+  WorldGeneration.cpp
+c:\users\wessel\desktop\github school\kernmodule_v3\opengl\src\generation\chunkmesh.h(14): warning C4150: deletion of pointer to incomplete type 'VertexBufferLayout'; no destructor called
+  c:\users\wessel\desktop\github school\kernmodule_v3\opengl\src\rendering\vertexarray.h(4): note: see declaration of 'VertexBufferLayout'
+c:\users\wessel\desktop\github school\kernmodule_v3\opengl\src\generation\worldgeneration.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\wessel\desktop\github school\kernmodule_v3\opengl\src\generation\worldgeneration.cpp(32): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wessel\desktop\github school\kernmodule_v3\opengl\src\generation\worldgeneration.cpp(41): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  OpenGL.vcxproj -> C:\Users\Wessel\Desktop\Github School\Kernmodule_v3\bin\Debug\OpenGL.exe
